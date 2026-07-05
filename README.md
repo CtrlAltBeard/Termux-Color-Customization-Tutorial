@@ -2,6 +2,9 @@
 A beginner-friendly guide to customize your Termux terminal with a vibrant color scheme featuring a deep purple background, white text, pink username, cyan directories, and green executables.
 
 ---
+## Final Result
+
+![Screenshot of the completed project](https://github.com/CtrlAltBeard/Termux-Color-Customization-Tutorial/raw/refs/heads/main/Final-result.jpeg)
 
 ## What You'll Learn
 
